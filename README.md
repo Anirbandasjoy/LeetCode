@@ -17,27 +17,28 @@ This repository contains my personal solutions to various algorithm and data str
 
 ## Folder Structure
 
+```
 LeetCode/
-│
 ├── .vscode/
 ├── node_modules/
 │
 ├── problems/
-│ ├── Problem-Folder/
-│ │ ├── problem-file.ts
-│ │ ├── NOTES.md
-│ │ └── README.md
-│ │
-│ └── Problem-Folder/
-│ ├── problem-file.ts
-│ ├── NOTES.md
-│ └── README.md
+│   ├── Problem-Folder/
+│   │   ├── problem-file.ts
+│   │   ├── NOTES.md
+│   │   └── README.md
+│   │
+│   └── Problem-Folder/
+│       ├── problem-file.ts
+│       ├── NOTES.md
+│       └── README.md
 │
 ├── .gitignore
 ├── package.json
 ├── tsconfig.json
 ├── yarn.lock
 └── README.md
+```
 
 ## How to Use
 
