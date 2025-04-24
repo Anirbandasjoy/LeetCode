@@ -1,9 +1,9 @@
 # 28. Find the Index of the First Occurrence in a String
 
-**Solved**  
 **Difficulty**: Easy  
-**Topics**  
-**Companies**
+**Status**: Solved  
+**Category**: String  
+**Platform**: LeetCode
 
 ---
 
