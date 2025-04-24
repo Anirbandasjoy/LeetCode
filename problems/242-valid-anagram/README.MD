@@ -1,4 +1,4 @@
-# <span style="color:#1E90FF">242. Valid Anagram</span>
+# 242. Valid Anagram
 
 **Difficulty**: Easy  
 **Status**: Solved  
