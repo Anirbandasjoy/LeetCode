@@ -1,4 +1,4 @@
-function strStr(haystack: string, needle: string): any {
+function strStr(haystack: string, needle: string): number {
   for (let i = 0; i < haystack.length; i++) {
     let found = true;
     for (let j = 0; j < needle.length; j++) {

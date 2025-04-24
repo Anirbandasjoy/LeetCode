@@ -1,11 +1,20 @@
 {
   "compilerOptions": {
-    "target": "ES6",
-    "module": "CommonJS",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "target": "ES2020", // Modern JavaScript features
+    "module": "CommonJS", // Node.js compatibility
+    "strict": true, // Enable all strict type-checking
+    "esModuleInterop": true, // Compatibility for commonJS & ES modules
+    "skipLibCheck": true, // Speeds up build by skipping type checks in node_modules
+    "forceConsistentCasingInFileNames": true, // Prevents issues in case-sensitive OS
+    "noImplicitAny": true, // Disallow variables with implicit `any`
+    "strictNullChecks": true, // Helps avoid null/undefined errors
+    "strictFunctionTypes": true, // Better function type safety
+    "noUnusedLocals": true, // Warn about unused local variables
+    "noUnusedParameters": true, // Warn about unused function parameters
+    "noFallthroughCasesInSwitch": true, // Warn on fallthrough in switch
+    "resolveJsonModule": true, // Import JSON modules
+    "outDir": "./dist", // Compile output directory
+    "rootDir": "./" // Source root
   },
-  "include": ["problems", "utils"]
+  "include": ["problems"]
 }
