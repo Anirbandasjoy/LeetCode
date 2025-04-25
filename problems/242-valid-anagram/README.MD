@@ -5,6 +5,8 @@
 **Category**: String  
 **Platform**: LeetCode
 
+Problem Link: [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills)
+
 ---
 
 ## Problem

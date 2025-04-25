@@ -48,6 +48,8 @@ LeetCode/
 
 3. Run individual TypeScript files to test the logic:
 
+4. Start Command `yarn dev problems/folder-name/filename.ts`
+
 ## Why TypeScript?
 
 TypeScript offers strong typing and better tooling, which helps in writing more predictable and error-free code during problem-solving.
