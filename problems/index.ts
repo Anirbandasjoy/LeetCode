@@ -8,7 +8,6 @@ function quickShort(arr: number[]): number[] {
   }
   const pivot = arr[arrLength - 1];
   const left: number[] = [];
-  [];
   const right: number[] = [];
 
   for (let i = 0; i < arrLength - 1; i++) {
