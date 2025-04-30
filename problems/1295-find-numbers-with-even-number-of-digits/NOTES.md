@@ -1,4 +1,4 @@
-### Follow This Approach
+## Follow This Approach
 
 To solve the problem, the basic idea is to:
 
