@@ -19,5 +19,3 @@ function quickShort(arr: number[]): number[] {
   }
   return [...quickShort(left), pivot, ...quickShort(right)];
 }
-
-console.log(quickShort([1, 2]));
