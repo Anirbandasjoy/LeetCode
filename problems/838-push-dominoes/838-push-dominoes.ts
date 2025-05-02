@@ -13,7 +13,7 @@ function pushDominoes(dominoes: string): string {
     result[i] = ".";
     forces[i] = 0;
   }
-  force = 0; // forces = [4,4,3,0]
+  force = 0;
   for (let i = 0; i < n; i++) {
     if (arr[i] === "R") {
       force = n;
@@ -51,4 +51,5 @@ function pushDominoes(dominoes: string): string {
   return final;
 }
 
+console.log(pushDominoes("RR.L"));
 console.log(pushDominoes(".LL.RR.LLRRLL.."));
