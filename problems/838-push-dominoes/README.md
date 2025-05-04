@@ -1,7 +1,7 @@
 # LeetCode - 838. Push Dominoes
 
-**Difficulty**: Medium  
-**Category**: Simulation, Two Pointers, String  
+**Difficulty**: `Medium`  
+**Category**: `Simulation`, `Two Pointers`, `String`  
 **Platform**: [LeetCode](https://leetcode.com/problems/push-dominoes/description/?envType=daily-question&envId=2025-05-02)
 
 ---
@@ -30,21 +30,22 @@ Return a string representing the final state.
 
 ### Example 1
 
-- **Input:**  
-  `"RR.L"`
-- **Output:**  
-  `"RR.L"`
-- **Explanation:**  
-  The first domino pushes the second to the right. The third domino is not affected as the second is already falling. The fourth is pushed to the left but remains unaffected by the third.
+> **Input:**  
+> `"RR.L"`  
+> **Output:**  
+> `"RR.L"`
+>
+> **Explanation:**  
+> The first domino pushes the second to the right. The third domino is not affected as the second is already falling. The fourth is pushed to the left but remains unaffected by the third.
 
 ---
 
 ### Example 2
 
-- **Input:**  
-  `".L.R...LR..L.."`
-- **Output:**  
-  `"LL.RR.LLRRLL.."`
+> **Input:**  
+> `".L.R...LR..L.."`  
+> **Output:**  
+> `"LL.RR.LLRRLL.."`
 
 ---
 

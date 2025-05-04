@@ -1,8 +1,8 @@
 # 1502. Can Make Arithmetic Progression From Sequence
 
-**Difficulty**: Easy  
-**Status**: Solved  
-**Category**: Array / Math / Sorting  
+**Difficulty**: `Easy`  
+**Status**: `Solved`  
+**Category**: `Array` / `Math` / `Sorting`  
 **Platform**: LeetCode
 
 🔗 [LeetCode Problem Link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills)
@@ -21,23 +21,25 @@ Given an array of numbers `arr`, return `true` if the array can be rearranged to
 
 ### Example 1
 
-- **Input:**  
-  `arr = [3, 5, 1]`
-- **Output:**  
-  `true`
-- **Explanation:**  
-  We can reorder the elements as `[1, 3, 5]`, with differences of 2 between consecutive elements.
+> **Input:**  
+> `arr = [3, 5, 1]`  
+> **Output:**  
+> `true`
+>
+> **Explanation:**  
+> We can reorder the elements as `[1, 3, 5]`, with differences of 2 between consecutive elements.
 
 ---
 
 ### Example 2
 
-- **Input:**  
-  `arr = [1, 2, 4]`
-- **Output:**  
-  `false`
-- **Explanation:**  
-  There is no way to reorder the elements to obtain an arithmetic progression.
+> **Input:**  
+> `arr = [1, 2, 4]`  
+> **Output:**  
+> `false`
+>
+> **Explanation:**  
+> There is no way to reorder the elements to obtain an arithmetic progression.
 
 ---
 

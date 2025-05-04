@@ -1,9 +1,9 @@
 # 242. Valid Anagram
 
-**Difficulty**: Easy  
-**Status**: Solved  
-**Category**: String  
-**Platform**: LeetCode
+**Difficulty**: `Easy`  
+**Status**: `Solved`  
+**Category**: `String`  
+**Platform**: `LeetCode`
 
 Problem Link: [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills)
 
@@ -21,21 +21,23 @@ An anagram is a word or phrase formed by rearranging the letters of another word
 
 ### Example 1
 
-- **Input:**  
-  `s = "anagram"`, `t = "nagaram"`
-- **Output:**  
-  `true`
-- **Explanation:**  
-  All the characters in `s` exist in `t` with the same frequency but in a different order.
+> **Input:**  
+> `s = "anagram"`, `t = "nagaram"`  
+> **Output:**  
+> `true`
+>
+> **Explanation:**  
+> All the characters in `s` exist in `t` with the same frequency but in a different order.
 
 ### Example 2
 
-- **Input:**  
-  `s = "rat"`, `t = "car"`
-- **Output:**  
-  `false`
-- **Explanation:**  
-  Character `'c'` exists in `t` but not in `s`, and `'t'` is missing in `t`, so it's not an anagram.
+> **Input:**  
+>  `s = "rat"`, `t = "car"`  
+> **Output:**  
+> `false`
+>
+> **Explanation:**  
+> Character `'c'` exists in `t` but not in `s`, and `'t'` is missing in `t`, so it's not an anagram.
 
 ---
 
