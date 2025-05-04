@@ -1,21 +1,21 @@
-# `LeetCode Problem Solving with TypeScript`
+# LeetCode Problem Solving with TypeScript
 
 This repository contains my personal solutions to various algorithm and data structure problems from LeetCode, implemented in TypeScript. The goal is to build strong problem-solving skills and write clean, readable, and efficient code.
 
-## `About This Repository`
+## About This Repository
 
 - All problems are solved manually without using built-in helper methods (unless allowed).
 - Focused on understanding the underlying logic behind each problem.
 - Most solutions are written with beginner-friendly logic using loops, arrays, and conditionals.
 - Some problems are solved with restrictions (e.g., no use of `sort()`, `includes()`, etc.) to simulate interview environments.
 
-## `Technologies Used`
+## Technologies Used
 
 - Language: TypeScript
 - Platform: LeetCode
 - Editor: VS Code
 
-## `Folder Structure`
+## Folder Structure
 
 ```
 LeetCode/
@@ -40,7 +40,7 @@ LeetCode/
 └── README.md
 ```
 
-## `How to Use`
+## How to Use
 
 1. Clone this repository:
 
@@ -50,16 +50,16 @@ LeetCode/
 
 4. Start Command `yarn dev problems/folder-name/filename.ts`
 
-## `Why TypeScript?`
+## Why TypeScript?
 
 TypeScript offers strong typing and better tooling, which helps in writing more predictable and error-free code during problem-solving.
 
-## `Contribution`
+## Contribution
 
 This is a personal learning repository, but feel free to explore the solutions and give suggestions or improvements through issues or pull requests.
 
-## `License`
+## License
 
 This project is open-source and available under the MIT License.
 
-`LeetCode`: [leetcode.com/u/EPV1S4wvUW](https://leetcode.com/u/EPV1S4wvUW)
+LeetCode: [leetcode.com/u/EPV1S4wvUW](https://leetcode.com/u/EPV1S4wvUW)
