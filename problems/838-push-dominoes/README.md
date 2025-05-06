@@ -1,4 +1,4 @@
-# LeetCode - 838. Push Dominoes
+# 838. Push Dominoes
 
 **Difficulty**: `Medium`  
 **Category**: `Simulation`, `Two Pointers`, `String`  
