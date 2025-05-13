@@ -3,17 +3,16 @@ function reverseString(s: string[]): void {
   while (s[n] !== undefined) {
     n++;
   }
-  let left = 0;
-  let right = n - 1;
 
+  let left: number = 0;
+  let right: number = n - 1;
   while (left < right) {
     const temp = s[left];
     s[left] = s[right];
     s[right] = temp;
-    left++;
     right--;
+    left++;
   }
-
   console.log(s);
 }
 
